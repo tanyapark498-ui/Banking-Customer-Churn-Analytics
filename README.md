@@ -6,7 +6,7 @@
 
 * Проверила данные на пропуски, дубликаты и аномалии.
 * Провела EDA: изучила отток по сегментам, возрасту и каналам обслуживания.
-* Написала SQL-запросы в PostgreSQL, в том числе с оконными функциями.
+* Написала SQL-запросы в PostgreSQL.
 * Проверила гипотезы с помощью статистических тестов.
 * Построила Logistic Regression и Random Forest, сравнила их качество.
 * Собрала дашборд в Tableau.
@@ -34,4 +34,4 @@
 
 ## Стек
 
-Python, pandas, PostgreSQL, scipy, statsmodels, scikit-learn, matplotlib, seaborn, Tableau.
+Python, SQL, pandas, PostgreSQL, scipy, statsmodels, scikit-learn, matplotlib, seaborn, Tableau.
