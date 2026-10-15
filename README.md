@@ -28,7 +28,7 @@
 
 ## Дашборд
 
-![Tableau Dashboard](assets/tableau_dashboard.png)
+![Tableau Dashboard](Dashboard/tableau_dashboard.png)
 
 Собрала в Tableau: KPI, отток по сегментам и каналам, heatmap сегмент × возраст, box plot engagement.
 
